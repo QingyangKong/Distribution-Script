@@ -1,0 +1,24 @@
+{
+  "name": "distribution-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QingyangKong/Distribution-Script.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QingyangKong/Distribution-Script/issues"
+  },
+  "homepage": "https://github.com/QingyangKong/Distribution-Script#readme",
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "@ethersproject/experimental": "^5.7.0"
+  }
+}
